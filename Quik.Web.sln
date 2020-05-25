@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quik.Web.API", "Quik.WebAPI\Quik.Web.API.csproj", "{1AA48FED-C0AF-4B3F-AA44-9FBECEBCF572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quik.Web.Curator", "Quik.Web.Curator\Quik.Web.Curator.csproj", "{147C1BEA-8048-4F3E-BE4A-A40A2E029C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quik.Web.Repository", "Quik.Web.Repository\Quik.Web.Repository.csproj", "{F20EC1F4-870B-4664-93AC-676DABF76645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quik.Web.Common", "Quik.Web.Common\Quik.Web.Common.csproj", "{633C6A6C-CD31-47D8-92B0-D45438385777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quik.Web.Core", "Quik.Web.Core\Quik.Web.Core.csproj", "{71162B91-6480-47C2-9553-2AB99F8C2C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA48FED-C0AF-4B3F-AA44-9FBECEBCF572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA48FED-C0AF-4B3F-AA44-9FBECEBCF572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA48FED-C0AF-4B3F-AA44-9FBECEBCF572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA48FED-C0AF-4B3F-AA44-9FBECEBCF572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147C1BEA-8048-4F3E-BE4A-A40A2E029C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147C1BEA-8048-4F3E-BE4A-A40A2E029C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147C1BEA-8048-4F3E-BE4A-A40A2E029C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147C1BEA-8048-4F3E-BE4A-A40A2E029C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F20EC1F4-870B-4664-93AC-676DABF76645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F20EC1F4-870B-4664-93AC-676DABF76645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F20EC1F4-870B-4664-93AC-676DABF76645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F20EC1F4-870B-4664-93AC-676DABF76645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633C6A6C-CD31-47D8-92B0-D45438385777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633C6A6C-CD31-47D8-92B0-D45438385777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633C6A6C-CD31-47D8-92B0-D45438385777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633C6A6C-CD31-47D8-92B0-D45438385777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71162B91-6480-47C2-9553-2AB99F8C2C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71162B91-6480-47C2-9553-2AB99F8C2C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71162B91-6480-47C2-9553-2AB99F8C2C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71162B91-6480-47C2-9553-2AB99F8C2C37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {015BD9E5-F7CE-455E-ACF6-0313A6075BBE}
+	EndGlobalSection
+EndGlobal
