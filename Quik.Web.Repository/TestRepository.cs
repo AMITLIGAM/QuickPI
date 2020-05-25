@@ -1,6 +1,6 @@
 ﻿namespace Quik.Web.Repository
 {
-    class TestRepository
+    public class TestRepository
     {
     }
 }
